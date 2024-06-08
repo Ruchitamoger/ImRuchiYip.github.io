@@ -1,18 +1,17 @@
 # ImRuchiYip.github.io!
-[1717854033813](https://github.com/Ruchitamoger/ImRuchiYip.github.io/assets/169180275/b368388d-b2a8-4fef-bc82-19913086b0ca)
+![1717854033813 (1)](https://github.com/Ruchitamoger/ImRuchiYip.github.io/assets/169180275/544207f1-7419-4f83-afeb-5998781c5abb)
 servomotor
 
-![1717854033707](https://github.com/Ruchitamoger/ImRuchiYip.github.io/assets/169180275/72c4841f-570a-462c-b008-af782a92d9ca)
+![1717854033776](https://github.com/Ruchitamoger/ImRuchiYip.github.io/assets/169180275/4ff131b1-8cea-4966-a306-e2506a631bc3)
 ultrasonic sensor
 
-
-![1717854033845](https://github.com/Ruchitamoger/ImRuchiYip.github.io/assets/169180275/f84c8fdc-f069-4647-820d-265653639a0b)
+![1717854033707](https://github.com/Ruchitamoger/ImRuchiYip.github.io/assets/169180275/fc5d84df-8c4f-457f-9047-41c3cf570404)
 raindrop sensor
 
-![1717854033776](https://github.com/Ruchitamoger/ImRuchiYip.github.io/assets/169180275/8e06cf3b-d362-460e-bc5e-0a8306981765)![1717854033707]
+![1717854033742](https://github.com/Ruchitamoger/ImRuchiYip.github.io/assets/169180275/ec0d2d28-c845-4e33-b1c8-2ca79c5c2df5)
 aurdino uno
 
-![1717854033813 (1)](https://github.com/Ruchitamoger/ImRuchiYip.github.io/assets/169180275/3fd83a65-abc0-4745-8b0f-53dbdb6e925f)
+![1717854033845](https://github.com/Ruchitamoger/ImRuchiYip.github.io/assets/169180275/650267f6-ffbf-4551-9ba4-9b59918f237d)
 Azure core services
 
 
