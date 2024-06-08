@@ -33,5 +33,5 @@ Azure AI sevices and Azure machine learning
 ![1717855767189](https://github.com/Ruchitamoger/ImRuchiYip.github.io/assets/169180275/e91a3448-1cc7-45b3-b442-eea1d3220f67)
 
 
-Team contribution details
+Team contribution details:
 In our Smart Dustbin project, Ruchitha Ananth Moger role was to select and put together the sensors and aurdino, ensuring they worked properly. Nikhitha M R focused on writing the code that controlled the dustbin's actions and managed the information from the sensors. Suhani P H was responsible for setting up Azure services, which stored and analyzed the data collected by the dustbin. Together, we collaborated closely to ensure the project progressed smoothly. Ruchitha made sure the hardware components were reliable, Nikhitha ensured the software operated efficiently, and Suhani ensured the data was stored securely and analyzed effectively. Our combined efforts resulted in the successful implementation of the Smart Dustbin, providing a smart solution for waste management.
