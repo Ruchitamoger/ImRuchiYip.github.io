@@ -14,6 +14,8 @@ raindrop sensor
 ![1717854033742](https://github.com/Ruchitamoger/ImRuchiYip.github.io/assets/169180275/ec0d2d28-c845-4e33-b1c8-2ca79c5c2df5)
 aurdino uno
 
+Azure stream Analytics
+
 ![1717854033845](https://github.com/Ruchitamoger/ImRuchiYip.github.io/assets/169180275/650267f6-ffbf-4551-9ba4-9b59918f237d)
 
  
