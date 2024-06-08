@@ -26,3 +26,9 @@ Azure stream Analytics
 
 
 ![1717855274728](https://github.com/Ruchitamoger/ImRuchiYip.github.io/assets/169180275/81987b16-6f80-46b8-a92e-a4b22178651b)
+
+
+Azure AI sevices and Azure machine learning
+
+![1717855767189](https://github.com/Ruchitamoger/ImRuchiYip.github.io/assets/169180275/e91a3448-1cc7-45b3-b442-eea1d3220f67)
+
