@@ -16,7 +16,7 @@ aurdino uno
 
 Azure stream Analytics
 
-![1717854033845](https://github.com/Ruchitamoger/ImRuchiYip.github.io/assets/169180275/650267f6-ffbf-4551-9ba4-9b59918f237d)
+![1717857610599](https://github.com/Ruchitamoger/ImRuchiYip.github.io/assets/169180275/c3634fa9-0faa-4b42-b830-b9a60692c8cf)
 
  
 ![1717855274779](https://github.com/Ruchitamoger/ImRuchiYip.github.io/assets/169180275/02e8c504-8d80-439d-89b2-da114c2765a8)
